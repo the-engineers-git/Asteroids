@@ -12,10 +12,6 @@ Built as a native macOS application with support for keyboard, mouse, and game c
 - Apple notarized
 - Native macOS application
 
-<p align="center">
-  <img src="assets/gameplay.png" alt="Asteroids gameplay" width="850">
-</p>
-
 ## Install with Homebrew
 
 If you already have [Homebrew](https://brew.sh/) installed, open Terminal and run:
@@ -23,6 +19,20 @@ If you already have [Homebrew](https://brew.sh/) installed, open Terminal and ru
 ```bash
 brew install --cask the-engineers-git/cask/asteroids
 ```
+
+## Screenshots
+
+### Gameplay
+
+<p align="center">
+  <img src="assets/gameplay.png" alt="Asteroids gameplay" width="850">
+</p>
+
+### macOS DMG
+
+<p align="center">
+  <img src="assets/Asteriods-DMG.png" alt="Asteroids macOS DMG installer" width="850">
+</p>
 
 MIT License
 
@@ -45,17 +55,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Screenshots
-
-### Gameplay
-
-<p align="center">
-  <img src="assets/gameplay.png" alt="Asteroids gameplay" width="850">
-</p>
-
-### macOS DMG
-
-<p align="center">
-  <img src="assets/Asteriods-DMG.png" alt="Asteroids macOS DMG installer" width="850">
-</p>
