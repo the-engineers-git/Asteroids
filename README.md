@@ -2,7 +2,6 @@
 
 A native macOS implementation of the classic vector arcade game.
 ROM Conversion to OSX by B. Ignomirello (IEEE)
-<brian@the-engineer.dev>
 
 Built as a native macOS application with support for keyboard, mouse, and game controllers.
 
